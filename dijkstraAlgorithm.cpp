@@ -1,9 +1,7 @@
 ﻿// created by Michal Czerwinski - T4ZZOR
 
 #include <iostream>
-#include <list>
 #include <vector>
-#include <set>
 #include <queue>
 using namespace std;
 
